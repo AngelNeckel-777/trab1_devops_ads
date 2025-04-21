@@ -39,7 +39,8 @@ jobs:
 
       # Rodar testes automatizados com pytest
       - name: Run tests
-        run: |
+         run:|
           pytest
+
 
         
